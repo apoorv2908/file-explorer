@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "Documents",
+    "type": "folder",
+    "children": [
+      {
+        "id": 2,
+        "name": "notes.txt",
+        "type": "file",
+        "content": "This is a notes file."
+      }
+    ]
+  }
+]
